@@ -124,11 +124,3 @@ manuscript text in `manuscript/main.tex` is **not** covered by that licence
 See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ---
-
-### Before you make this repository public
-
-- [ ] Replace `<your-username>` in this README and in `CITATION.cff` with your actual GitHub handle
-- [ ] Fill in your full name / ORCID in `CITATION.cff` and the copyright line in `LICENSE`
-- [ ] Confirm your institution/journal allows a public preprint + code repo before the paper is accepted
-- [ ] Re-run the pipeline on your **real** downloaded datasets and replace the contents of `figures/` and `results/` (do not submit synthetic-placeholder figures)
-- [ ] Double-check `manuscript/main.tex` does not contain any `#TODO`/private notes before pushing
