@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or figure suite, please cite it as below."
+type: software
+title: "SHQC3F-Carbon-Cycle: Figure and Analysis Suite for Scalable Hybrid Quantum-Classical Frameworks for Carbon Cycle Prediction"
+authors:
+  - family-names: "Shuvyu"
+    given-names: ""
+    # TODO: replace with your full legal name and ORCID before publishing
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/<your-username>/SHQC3F-Carbon-Cycle"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-03"
+keywords:
+  - quantum computing
+  - quantum machine learning
+  - carbon cycle
+  - climate modeling
+  - variational quantum circuits
+  - Lindblad master equation
+preferred-citation:
+  type: article
+  title: "Scalable Hybrid Quantum-Classical Frameworks for Carbon Cycle Prediction"
+  authors:
+    - family-names: "Shuvyu"
+      given-names: ""
+  year: 2026
+  status: "in-preparation"
+  notes: "Update this block with the final venue, DOI and page numbers once the manuscript is accepted."
